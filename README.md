@@ -2,10 +2,11 @@
 
 OBJETIVO GENERAL 
 
-
+•	Estudiar circuitos RL en serie, paralelo, serie-paralelo y analizar la relación entre corriente y voltaje.
 
 OBJETIVO ESPECIFICO
 
+•	Determinar la impedancia de un circuito RL para los casos serie, paralelo y serie-paralelo.
 
 
 MARCO TEORICO
@@ -67,7 +68,7 @@ VIDEO
 
 CONCLUSIONES
 
-
+•	Se   analizó     la   diferencia   entre   conectarse   en   serie   o   en   paralelo   y   el comportamiento de los elementos al hacer cada uno de estos tipos de circuitos y alimentarlos con distintos voltajes.
 
 BIBLIOGRAFIAS
 
