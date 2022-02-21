@@ -39,6 +39,20 @@ CAPITULO 15
 ![Deber 15_Página_16](https://user-images.githubusercontent.com/93209004/154998397-c99db0ae-b500-4de9-ab14-74afa4d3d14e.jpg)
 ![Deber 15_Página_17](https://user-images.githubusercontent.com/93209004/154998398-6c8c5a07-519e-46d1-a09d-4332c5bb125c.jpg)
 ![Deber 15_Página_18](https://user-images.githubusercontent.com/93209004/154998399-d397c79b-6747-4551-b5aa-c3df8372fa82.jpg)
+![35_01](https://user-images.githubusercontent.com/93899658/155035283-f56a2fd3-8852-442c-84d4-4d950b29094e.jpg)
+![35_02](https://user-images.githubusercontent.com/93899658/155035285-52e6c33d-82be-47df-bbad-abf5196695c0.jpg)
+![35_03](https://user-images.githubusercontent.com/93899658/155035287-2a9d10c1-330b-4553-ba7a-e87c7a735dca.jpg)
+![35_04](https://user-images.githubusercontent.com/93899658/155035288-fbc68611-4585-4464-be93-8bebfdb5cc33.jpg)
+![35_05](https://user-images.githubusercontent.com/93899658/155035289-452cd1f7-7b09-40d9-904b-ae0a16074aa1.jpg)
+![35_06](https://user-images.githubusercontent.com/93899658/155035290-58094271-83c4-4521-ba7d-cfff5c38feed.jpg)
+![35_07](https://user-images.githubusercontent.com/93899658/155035292-737401a8-3afa-4c43-80eb-703247258507.jpg)
+![35_08](https://user-images.githubusercontent.com/93899658/155035293-fe470347-6d58-4542-9e4f-7252e5fe728d.jpg)
+![35_09](https://user-images.githubusercontent.com/93899658/155035295-32239458-78e2-40bf-9bb7-e73def3dcbe1.jpg)
+![35_10](https://user-images.githubusercontent.com/93899658/155035297-c1cbe97d-9c39-4676-b598-f20ecf46a1f3.jpg)
+![35_11](https://user-images.githubusercontent.com/93899658/155035299-8984d241-a822-44ec-9df3-c261d22ec9e5.jpg)
+![35_12](https://user-images.githubusercontent.com/93899658/155035302-bc6424f5-f10d-4d24-8a0a-f2dc2bcb71be.jpg)
+![35_13](https://user-images.githubusercontent.com/93899658/155035304-d14f99d3-5eed-4c41-a456-849e33a2927b.jpg)
+![35_14](https://user-images.githubusercontent.com/93899658/155035307-0a757e85-9923-4448-991e-8485a1819c27.jpg)
 
 CAPITULO 16
 
