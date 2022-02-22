@@ -70,7 +70,6 @@ CAPITULO 16
 ![CAPITULO 15 Y 16_14](https://user-images.githubusercontent.com/93899658/155151604-2575354a-86d3-4fb0-997e-b27b8a590f65.jpg)
 ![CAPITULO 15 Y 16_15](https://user-images.githubusercontent.com/93899658/155151617-7ab1c0eb-4845-41a0-800d-a5a96e717db3.jpg)
 ![CAPITULO 15 Y 16_16](https://user-images.githubusercontent.com/93899658/155151635-4aca29e3-89f4-43f1-9e35-da1221590f1a.jpg)
-![CAPITULO 15 Y 16_17](https://user-images.githubusercontent.com/93899658/155151683-062e2f93-d17a-4935-8c17-fb335c19fe1f.jpg)
 
 ![Deber 16_Página_01](https://user-images.githubusercontent.com/93209004/154998810-2db47741-d578-4dd2-a58f-029d663e6e4e.jpg)
 ![Deber 16_Página_02](https://user-images.githubusercontent.com/93209004/154998812-771e6b81-0d96-4bac-a75a-53c7e8f7ce48.jpg)
