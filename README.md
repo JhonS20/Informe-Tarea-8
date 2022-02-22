@@ -5,7 +5,7 @@ OBJETIVO GENERAL
 •	Estudiar circuitos RL en serie, paralelo, serie-paralelo y analizar la relación entre corriente y voltaje.
 
 OBJETIVO ESPECIFICO
-
+• Comprender el funcionamiento de un circuito RC con corriente alterna.
 •	Determinar la impedancia de un circuito RL para los casos serie, paralelo y serie-paralelo.
 
 
@@ -82,11 +82,13 @@ CAPITULO 16
 
 VIDEO
 
-
+https://youtu.be/GEqj6fkCPF0
 
 CONCLUSIONES
 
 •	Se   analizó     la   diferencia   entre   conectarse   en   serie   o   en   paralelo   y   el comportamiento de los elementos al hacer cada uno de estos tipos de circuitos y alimentarlos con distintos voltajes.
+
+• Los capacitores actuan de forma diferente a los resistores y ya que existe un desface por parte de ellos comparados con los resistores y las corrientes.
 
 BIBLIOGRAFIAS
 
