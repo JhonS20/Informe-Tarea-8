@@ -61,15 +61,16 @@ CAPITULO 15
 
 CAPITULO 16
 
-![CAPITULO 15 Y 16_15](https://user-images.githubusercontent.com/93899658/155151338-e25f2a62-a414-450c-a720-abc8bc68f591.jpg)
-![CAPITULO 15 Y 16_16](https://user-images.githubusercontent.com/93899658/155151341-64d7366b-7cad-4a6e-9563-73e1f1540346.jpg)
-![CAPITULO 15 Y 16_17](https://user-images.githubusercontent.com/93899658/155151344-05c523a6-36ac-44db-bf89-4ef63cdf54b6.jpg)
-![CAPITULO 15 Y 16_18](https://user-images.githubusercontent.com/93899658/155151346-d50fb7b4-cb6c-40ed-8c25-b9d5f4b9038f.jpg)
-![CAPITULO 15 Y 16_11](https://user-images.githubusercontent.com/93899658/155151348-749d59df-adcf-4dba-ba70-0693e51adc02.jpg)
-![CAPITULO 15 Y 16_12](https://user-images.githubusercontent.com/93899658/155151350-83e8b415-be21-4dae-9d14-4954de917bd1.jpg)
-![CAPITULO 15 Y 16_13](https://user-images.githubusercontent.com/93899658/155151352-adc98727-daf5-4814-a1f4-5a847f25cc21.jpg)
-![CAPITULO 15 Y 16_14](https://user-images.githubusercontent.com/93899658/155151354-154d4cdd-31fa-4acf-9f37-8e33a8115f0c.jpg)
+![CAPITULO 15 Y 16_11](https://user-images.githubusercontent.com/93899658/155151534-950860c0-fdc7-466f-99f3-c6b16253c5ea.jpg)
 
+![CAPITULO 15 Y 16_12](https://user-images.githubusercontent.com/93899658/155151570-9f91ed3d-2e09-40f0-87d3-211b8b5ced96.jpg)
+
+![CAPITULO 15 Y 16_13](https://user-images.githubusercontent.com/93899658/155151587-5917dea0-4c87-4132-83bc-89d659dc2aad.jpg)
+
+![CAPITULO 15 Y 16_14](https://user-images.githubusercontent.com/93899658/155151604-2575354a-86d3-4fb0-997e-b27b8a590f65.jpg)
+![CAPITULO 15 Y 16_15](https://user-images.githubusercontent.com/93899658/155151617-7ab1c0eb-4845-41a0-800d-a5a96e717db3.jpg)
+![CAPITULO 15 Y 16_16](https://user-images.githubusercontent.com/93899658/155151635-4aca29e3-89f4-43f1-9e35-da1221590f1a.jpg)
+![CAPITULO 15 Y 16_17](https://user-images.githubusercontent.com/93899658/155151683-062e2f93-d17a-4935-8c17-fb335c19fe1f.jpg)
 
 ![Deber 16_Página_01](https://user-images.githubusercontent.com/93209004/154998810-2db47741-d578-4dd2-a58f-029d663e6e4e.jpg)
 ![Deber 16_Página_02](https://user-images.githubusercontent.com/93209004/154998812-771e6b81-0d96-4bac-a75a-53c7e8f7ce48.jpg)
