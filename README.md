@@ -5,6 +5,7 @@ OBJETIVO GENERAL
 •	Estudiar circuitos RL en serie, paralelo, serie-paralelo y analizar la relación entre corriente y voltaje.
 
 OBJETIVO ESPECIFICO
+
 • Comprender el funcionamiento de un circuito RC con corriente alterna.
 •	Determinar la impedancia de un circuito RL para los casos serie, paralelo y serie-paralelo.
 
