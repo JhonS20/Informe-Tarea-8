@@ -11,6 +11,8 @@ OBJETIVO ESPECIFICO
 
 MARCO TEORICO
 
+![Diagrama en blanco (11)](https://user-images.githubusercontent.com/93899658/155063163-62a3444d-6c51-453f-907e-f7ae073f3338.png)
+
 CAPITULO 15
 
 CAPITULO 16
